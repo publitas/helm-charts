@@ -2,12 +2,18 @@ apiVersion: v1
 entries:
   application:
   - apiVersion: v2
-    created: "2025-10-30T010:30:12.000000+02:00"
+    created: "2025-10-30T11:55:46.746714+01:00"
     description: Generic helm chart for all kind of applications
-    digest: <sha256-of-application-6.10.0.tgz>
+    digest: c11a7adbeb8caf8b85514d77f273bfb6b42fbf35d40c8d8df0d1d4a512ce7a64
     home: https://github.com/stakater/application
     icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
-    keywords: [java, node, dotnet, kubernetes, stakater, application]
+    keywords:
+    - java
+    - node
+    - dotnet
+    - kubernetes
+    - stakater
+    - application
     maintainers:
     - email: hello@stakater.com
       name: Stakater
@@ -17,12 +23,18 @@ entries:
     - https://publitas.github.io/helm-charts/application-6.10.0.tgz
     version: 6.10.0
   - apiVersion: v2
-    created: "2025-10-30T09:41:12.000000+02:00"
+    created: "2025-10-30T11:55:46.749807+01:00"
     description: Generic helm chart for all kind of applications
-    digest: <sha256-of-application-6.9.0.tgz>
+    digest: 82d952db0edb230c857c9f68966721577feddd388f377eb4ccee0ef4456f4c9f
     home: https://github.com/stakater/application
     icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
-    keywords: [java, node, dotnet, kubernetes, stakater, application]
+    keywords:
+    - java
+    - node
+    - dotnet
+    - kubernetes
+    - stakater
+    - application
     maintainers:
     - email: hello@stakater.com
       name: Stakater
@@ -32,12 +44,18 @@ entries:
     - https://publitas.github.io/helm-charts/application-6.9.0.tgz
     version: 6.9.0
   - apiVersion: v2
-    created: "2025-09-25T12:29:29.079372+02:00"
+    created: "2025-10-30T11:55:46.747894+01:00"
     description: Generic helm chart for all kind of applications
     digest: dbdefd75ba7f038222631b67b9d127e71288cf0678bfc794920f61c656c4321a
     home: https://github.com/stakater/application
     icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
-    keywords: [java, node, dotnet, kubernetes, stakater, application]
+    keywords:
+    - java
+    - node
+    - dotnet
+    - kubernetes
+    - stakater
+    - application
     maintainers:
     - email: hello@stakater.com
       name: Stakater
@@ -46,4 +64,4 @@ entries:
     urls:
     - https://publitas.github.io/helm-charts/application-6.8.0.tgz
     version: 6.8.0
-generated: "2025-10-30T09:41:12.000000+02:00"
+generated: "2025-10-30T11:55:46.745284+01:00"
