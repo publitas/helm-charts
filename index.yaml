@@ -2,7 +2,28 @@ apiVersion: v1
 entries:
   application:
   - apiVersion: v2
-    created: "2025-12-03T16:08:55.143896+01:00"
+    created: "2025-12-04T11:27:35.225073+01:00"
+    description: Generic helm chart for all kind of applications
+    digest: 8883ab8fe2d79bdabe4dd797b0790d16f2e6963c8e61e7d9e912bcaf42e882b0
+    home: https://github.com/stakater/application
+    icon: https://github.com/stakater/ForecastleIcons/blob/master/stakater.png
+    keywords:
+    - java
+    - node
+    - dotnet
+    - kubernetes
+    - stakater
+    - application
+    maintainers:
+    - email: hello@stakater.com
+      name: Stakater
+    name: application
+    type: application
+    urls:
+    - application-6.12.0.tgz
+    version: 6.12.0
+  - apiVersion: v2
+    created: "2025-12-04T11:27:35.223052+01:00"
     description: Generic helm chart for all kind of applications
     digest: fa4944fdaba59eb0f18bdb7fc50bb000d6ba8d0849cf02c1dfe44e0204624a99
     home: https://github.com/stakater/application
@@ -23,7 +44,7 @@ entries:
     - application-6.11.0.tgz
     version: 6.11.0
   - apiVersion: v2
-    created: "2025-12-03T16:08:55.141498+01:00"
+    created: "2025-12-04T11:27:35.221401+01:00"
     description: Generic helm chart for all kind of applications
     digest: c11a7adbeb8caf8b85514d77f273bfb6b42fbf35d40c8d8df0d1d4a512ce7a64
     home: https://github.com/stakater/application
@@ -44,7 +65,7 @@ entries:
     - application-6.10.0.tgz
     version: 6.10.0
   - apiVersion: v2
-    created: "2025-12-03T16:08:55.146684+01:00"
+    created: "2025-12-04T11:27:35.227658+01:00"
     description: Generic helm chart for all kind of applications
     digest: 82d952db0edb230c857c9f68966721577feddd388f377eb4ccee0ef4456f4c9f
     home: https://github.com/stakater/application
@@ -65,7 +86,7 @@ entries:
     - application-6.9.0.tgz
     version: 6.9.0
   - apiVersion: v2
-    created: "2025-12-03T16:08:55.145295+01:00"
+    created: "2025-12-04T11:27:35.226315+01:00"
     description: Generic helm chart for all kind of applications
     digest: dbdefd75ba7f038222631b67b9d127e71288cf0678bfc794920f61c656c4321a
     home: https://github.com/stakater/application
@@ -85,4 +106,4 @@ entries:
     urls:
     - application-6.8.0.tgz
     version: 6.8.0
-generated: "2025-12-03T16:08:55.139898+01:00"
+generated: "2025-12-04T11:27:35.220017+01:00"
